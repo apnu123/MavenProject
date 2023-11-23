@@ -28,7 +28,7 @@ if(result)
 else
 {
 	System.out.println("Product is not visible on screen");}
-driver.close();
+//driver.close();
 
 		
 
